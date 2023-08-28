@@ -122,9 +122,6 @@ input::-webkit-outer-spin-button,
     display: flex;
     flex-direction: row;
 }
-.home-page .home-page-2 .cards::-webkit-scrollbar {
-    display: none;
-  }
 .home-page .home-page-2 .cards .card-1{
     background-color: red;
     margin: 10px 20px;
