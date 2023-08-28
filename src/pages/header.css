@@ -1,0 +1,64 @@
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 0px 0px 25px 25px;
+    position: sticky;
+    top: 0;
+}
+.navbar .logo{
+    margin: auto 0px;
+    margin-right: auto;
+}
+.navbar .logo .logo-text{
+    font-size: 25px;
+    font-family: cursive;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.navbar .logo .logo-text-span{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+.navbar .links{
+    margin: 0px;
+}
+.navbar .links ul{
+    padding: 0px;
+}
+.navbar .links ul li{
+    display: flex;
+    flex-direction: row;
+}
+.navbar .links ul li a{
+    padding: 8px 15px;
+    margin: 0px 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 17px;
+    color: white;
+}
+.navbar .links ul li #head-a:hover{
+    color: black;
+    background-color: rgb(75, 228, 215);
+    transition: ease-in 0.4s;
+}
+.navbar .search{
+    margin: auto 0px;
+}
+.navbar .search .login-btn{
+    padding: 5px 25px;
+    border-radius: 20px;
+    border: 3px solid rgb(75, 228, 215);
+    color: white;
+    margin-left: 50px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.navbar .search .login-btn:hover{
+    color: black;
+    background-color: rgb(75, 228, 215);
+    transition: ease-in 0.4s;
+}

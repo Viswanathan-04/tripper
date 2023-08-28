@@ -1,0 +1,147 @@
+.home-page .home-page-1,.home-page-2,.home-page-3{
+    margin: 15px 4rem;
+    margin-top: 80px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 25px;
+}
+.home-page .home-page-1 .travel-mode{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    background-color: white;
+    box-shadow: 0px 0px 15px 15px rgba(218, 123, 123, 0.5);
+    width: fit-content;
+    border-radius: 10px;
+    padding: 0px 20px;
+    margin-top: -70px;
+}
+.home-page .home-page-1 .travel-mode .travel-mode-1{
+    margin: 10px;
+    padding: 5px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: fit-content;
+}
+.home-page .home-page-1 .travel-mode .travel-mode-1 button{
+    font-size: 18px;
+    margin: 10px;
+    border: none;
+    background-color: rgba(0,0,0,0);
+    text-align: center;
+    color: white;
+}
+.home-page .home-page-1 .travel-mode .icon{
+    font-size: 25px;
+    margin: 5px auto;
+    margin-top: 5px;
+}
+.home-page .home-page-1 .home-1{
+    display: flex;
+    flex-direction: row;
+    border-radius: 25px;
+    justify-content: center;
+}
+.home-page .home-page-1 .home-1 .search-div{
+    margin: 20px;
+}
+.home-page .home-page-1 .home-1 .search-div p{
+    color: black;
+    font-size: 14px;
+}
+.home-page .home-page-1 .home-1 .search-div input[type=text]{
+    font-size: 25px;
+    height: 40px;
+    width: 130px;
+    max-width: 250px;
+    border: 2px solid transparent;
+    padding-left: 10px;
+}
+.home-page .home-page-1 .home-1 .search-div input[type=number]
+{
+    font-size: 25px;
+    height: 40px;
+    border: 2px solid transparent;
+    padding-left: 10px;
+    max-width: 100px;
+}
+.home-page .home-page-1 .home-1 .search-div input[type=text]:active,input[type=number]:active{
+    border: 2px solid rgba(0, 0, 0, 0.375);
+    transition: 10s ease;
+}
+.home-page .home-page-1 .home-1 .search-div input[type=date]{
+    height: 40px;
+    font-size: 15px;
+    border: none;
+}
+input::-webkit-outer-spin-button,
+      input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+      }
+.home-page .home-page-1 .home-1 .search-div-1{
+    margin-top: auto;
+    font-size: 25px;
+    color: rgb(67, 67, 67);
+}
+.home-page .home-page-1 .travel-text{
+    text-align: center;
+    font-size: 20px;
+}
+.home-page .home-page-1 .submit{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.home-page .home-page-1 .submit .submit-btn{
+    border: 4px solid rgb(100, 100, 201);
+    border-radius: 25px;
+    font-size: 18px;
+    padding: 15px 45px;
+    background-color: white;
+    color: rgb(100, 100, 201);
+    transition: 0.3s ease-in;
+}
+.home-page .home-page-1 .submit .submit-btn:hover{
+    background-color: rgb(100, 100, 201);
+    box-shadow: 0px 0px 5px 5px rgba(100, 100, 201, 0.4);
+    color: white;
+}
+
+.home-page .home-page-2 h1{
+    padding: 0px 10px;
+    margin: 10px 15px;
+}
+.home-page .home-page-2 .cards{
+    border-radius: 20px;
+    padding: 0px ;
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+}
+.home-page .home-page-2 .cards::-webkit-scrollbar {
+    display: none;
+  }
+.home-page .home-page-2 .cards .card-1{
+    background-color: red;
+    margin: 10px 20px;
+    border-radius: 20px;
+    min-height: 300px;
+}
+.home-page .home-page-2 .cards .card-1 img{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+    
+}.home-page .home-page-2 .cards .card-1 h2{
+    padding: 0px 20px;
+    color: white;
+    font-size: 18px;
+}
+.home-page .home-page-2 .cards .card-1 h2 .card-land{
+    translate: 0px 2px;
+    margin-right: 15px;
+}
