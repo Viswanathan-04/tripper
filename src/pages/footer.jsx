@@ -9,19 +9,19 @@ function Footer()
                 <h2 className='quick-font'>Quick Links</h2>
                 <ul>
                     <li>
-                        <a href='/' className='active'>Home</a>
+                        <a href='/tripper' className='active'>Home</a>
                     </li>
                     <li>
-                        <a href='/'>About</a>
+                        <a href='/tripper'>About</a>
                     </li>
                     <li>
-                        <a href='/'>Services</a>
+                        <a href='/tripper'>Services</a>
                     </li>
                     <li>
-                        <a href='/'>Explore</a>
+                        <a href='/tripper'>Explore</a>
                     </li>
                     <li>
-                        <a href='/'>Contact</a>
+                        <a href='/tripper'>Contact</a>
                     </li>
                 </ul>
             </div>
