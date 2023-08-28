@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tripper/static/css/main.3d9d5958.css",
-    "main.js": "/tripper/static/js/main.462188ac.js",
+    "main.js": "/tripper/static/js/main.6e2bcbfc.js",
     "index.html": "/tripper/index.html",
     "main.3d9d5958.css.map": "/tripper/static/css/main.3d9d5958.css.map",
-    "main.462188ac.js.map": "/tripper/static/js/main.462188ac.js.map"
+    "main.6e2bcbfc.js.map": "/tripper/static/js/main.6e2bcbfc.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9d5958.css",
-    "static/js/main.462188ac.js"
+    "static/js/main.6e2bcbfc.js"
   ]
 }
