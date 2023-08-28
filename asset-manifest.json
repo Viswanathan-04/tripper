@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Viswanathan-04.github.io/tripper/static/css/main.3d9d5958.css",
+    "main.js": "/Viswanathan-04.github.io/tripper/static/js/main.462188ac.js",
+    "index.html": "/Viswanathan-04.github.io/tripper/index.html",
+    "main.3d9d5958.css.map": "/Viswanathan-04.github.io/tripper/static/css/main.3d9d5958.css.map",
+    "main.462188ac.js.map": "/Viswanathan-04.github.io/tripper/static/js/main.462188ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9d5958.css",
+    "static/js/main.462188ac.js"
+  ]
+}
